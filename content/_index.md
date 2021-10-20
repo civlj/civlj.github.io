@@ -1,5 +1,5 @@
 ---
-heading: "ACMer.info"
-subheading: "ACMer Group Index"
-handle: "acmerindex "
+heading: "USTB.info"
+subheading: "USTB Group Index"
+handle: "ustbindex "
 ---
