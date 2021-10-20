@@ -2,8 +2,16 @@ contest:
   - name: USTB_概率论与数理统计
     groupid: 378282068
     owner: 学生学习与发展指导中心
-    notes: camp
-  
+    # notes: camp
+  - name: USTB_英语
+    groupid: 564742396
+    owner: 学生学习与发展指导中心
+    # notes: camp    
+  - name: USTB_计算机类
+    groupid: 460179114
+    owner: 学生学习与发展指导中心
+    # notes: camp 
+
     
 game:
   - name: 吃鸡快乐群
@@ -30,40 +38,16 @@ game:
     groupid: 372697764
     owner: 碳烤派蒙100016107
     # notes: 
+  - name: 贝壳电子竞技群<$ÿĀ>
+    groupid: 482329249
+    owner: 漫天星斗
+    notes: LOL为主
   
     
 job:
   - name: acmer找工作群
     groupid: 566499368
     owner: cch
-    # notes: 
-  - name: acmer秋招冲冲冲
-    groupid: 1163137693
-    owner: jk
-    # notes: 
-  - name: ACMer求职交流群
-    groupid: 326749568
-    owner: Doctor X
-    notes: 社招向
-  - name: ACMer社招互跳
-    groupid: 121328014
-    owner: whd
-    # notes: 
-  - name: jkのjava小屋
-    groupid: 445637532
-    owner: jk
-    notes: jk针对acmer希望投java岗的免费建议
-  - name: acm游戏制作交流群
-    groupid: 444277230
-    owner: 京总
-    # notes: 
-  - name: acm公考交流群
-    groupid: 962240979
-    owner: 川奈昴
-    # notes: 
-  - name: acm算法岗打工群
-    groupid: 833323261
-    owner: 三水
     # notes: 
 
 company:
@@ -73,59 +57,23 @@ company:
     notes: 阿里&蚂蚁群，钉钉私聊醉荷加入
 
 city:
-  - name: STJU校友会-北京分会
-    groupid: 1148155996
-    owner: 笨比
+  - name: USTB校友会-北京分会
+    groupid: 123456
+    owner: 123
     notes: 北京群
-  - name: ACMer杭州线下约饭群
-    groupid: 1151057336
-    owner: hxy
-    notes: 杭州群
-  - name: ACM驻成都清纯办事处兼接待
-    groupid: 1050881159
-    owner: JJ3rry
-    notes: 成都群
-  - name: 要恰饭的呀
-    groupid: 646484525
-    owner: 特巨
-    notes: 上海群
-  - name: acer深圳约饭群@馍馍粉丝群
-    groupid: 308895008
-    owner: 耗子
-    notes: 莫名其妙被建立起来的深圳约饭群
 
 others:
-  - name: ACfun🈚
-    groupid: 667487900
-    owner: wc
+  - name: 健身打卡群
+    groupid: 
+    owner: 
     # notes: 
-  - name: ABELfun
-    groupid: 157183261
-    owner: 🐏
-    # notes: 
-  - name: ACM交流群
+  - name: 显卡锻炼交流群
     # groupid: 
-    owner: qls
-    notes: 原贴吧群
-  - name: acm健身打卡群
-    groupid: 736334548
-    owner: jk
-    # notes: 
-  - name: acm显卡锻炼交流群
-    # groupid: 335897313
-    owner: 川奈昴、鸡哥、京总
+    owner: 
     notes: 除显卡锻炼外还可交流硬件装机配置捡垃圾等
-  - name: acm清纯交流群
-    # groupid: 
-    owner: stj
-    notes: 邀请制
-  - name: ACMer fufu群
-    groupid: 343433038
-    owner: kdixnw
-    # notes: 
-  - name: acm养纳豆群
-    groupid: 246686065
-    owner: 柠檬
+  - name: 养纳豆群
+    groupid: 
+    owner: 
     notes: ACM养猫群,用于吸猫和交流养猫经验
   - name: acmer K歌群
     groupid: 1012402783
@@ -135,56 +83,8 @@ others:
     # groupid: 
     owner: 松鼠妹妹(tianlelu)
     notes: 邀请制,仅限染色体为XY加入,发自己的女装照
-  - name: acm World War II
-    # groupid: 
-    owner: 耗子
-    notes: 考研二战群 邀请制
-  - name: IUPC T恤团购群
-    groupid: 1065439854
-    owner: Nanako
-    # notes: 
-  - name: ACM调酒群
-    groupid: 615778774
-    owner: 耗子
-    # notes: 
-  - name: |
-      OIER高考翻车到非(985&强211)程度  
-      想打ACM的志愿填报学校推荐群
-    groupid: 641204338
-    owner: diabolus ex nihilo
-    # notes: 
-  - name: ACM双非群
-    groupid: 933700428
-    owner: 川奈昴
-    notes: 仅限双非选手加入
-  - name: AC康复中心
-    groupid: 721332230
-    owner: WC
-    notes: 仅限炒股炒币失败亏钱选手加入求安慰
-  - name: hello, Luogu（OI 向）
-    groupid: 515055655
-    owner: 洛谷
-    notes: 水群
-  - name: 洛谷核心群
-    groupid: 745848871
-    owner: 洛谷
-    notes: OI社交水群
-  - name: acmer一起学公开课
-    groupid: 962407204 
-    owner: 安杰尼尔
-    notes: 自学网课，acer一起来巩固计算机基础吧
-  - name: ACMer～清纯读书群
-    groupid: 215672931
-    owner: 耗子
-    notes: |
-      小分支，可以分享自己喜欢的书，偶尔闲聊一下关于看书之类的事。  
-      书籍不限定领域，方向，语言，但必须是出版书籍或者硕士、博士论文。  
-      比较优秀的全年龄网络小说也可以。
   - name: acm女拳交流群
     groupid: 780246071
     owner: ¿J3rrY
     notes: 交流学习拳法
-  - name: AsoulFun
-    groupid: 828134206
-    owner: 赞琳子的高先生
-    notes: 虚拟组合Asoul交流群，群内有bot实时推送开播信息。
+
