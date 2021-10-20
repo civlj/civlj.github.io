@@ -46,29 +46,36 @@ game:
     
 job:
   - name: 北科数学竞赛交流群
-    groupid: ---
-    owner: ---
+    groupid: 未知
+    owner: 未知
     # notes: 
 
 company:
   - name: 北科羽协
-    groupid: ---
-    owner: --
+    groupid: 未知
+    owner: 未知
     notes: 
 
 city:
-  - name: USTB校友会-北京分会
-    groupid: ---
-    owner: ---
+  - name: USTB校友群-北京分会
+    groupid: 未知
+    owner: 未知
     notes: 北京群
+  - name: USTB驻上海办事处兼接待
+    groupid: 未知
+    owner: 未知
+    notes: 上海线下约饭群
 
 others:
   - name: 健身打卡群
-    groupid: 
-    owner: 
+    groupid: 未知
+    owner: 未知
     # notes: 
   - name: 显卡锻炼交流群
-    groupid: 
-    owner: 
+    groupid: 未知
+    owner: 未知
     notes: 除显卡锻炼外还可交流硬件装机配置捡垃圾等
-   
+  - name: 女装交流群
+    groupid: 未知
+    owner: tianlelu
+    notes: 邀请制,仅限染色体为XY加入,发自己的女装照
