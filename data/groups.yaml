@@ -65,54 +65,31 @@ contest:
     # notes:  
     
 game:
-  - name: acm雀魂群
-    groupid: 967906418
-    owner: qls
-    # notes: 
+  - name: 吃鸡快乐群
+    groupid: 839823000
+    owner: Air2160
+    # notes: 和平精英
   - name: 贝壳光崽|风行季！
     groupid: 1164481821
-    owner: 对跖_
+    owner: 瓜子
     # notes: 光遇
-  - name: ACMer明日方舟
-    groupid: 851690385
-    owner: 君君
+  - name: 贝壳黑暗骑士原神群
+    groupid: 372697764
+    owner: 碳烤派蒙100016107
     # notes: 
-  - name: jber-ygo交流群
-    groupid: 965033862
-    owner: 特巨
+  - name: 北科游戏王唠嗑群
+    groupid: 645384979
+    owner: 群火召，时不时来找群友玩
     # notes: 
-  - name: acm盲人交流群
-    groupid: 961098920
-    owner: Rei
-    notes: 星际争霸群
-  - name: acm x switch同好群
-    groupid: 1036679958
-    owner: jk
+  - name: 北科大三国杀交流群
+    groupid: 765293481
+    owner: 18-测控-林显峰
+    notes: 
+  - name: 北科王者荣耀
+    groupid: 567485746
+    owner: 迪迦奥特曼
     # notes: 
-  - name: ACM-CSGO群
-    groupid: 587383513
-    owner: 京和
-    # notes: 
-  - name: acm狒狒14群
-    groupid: 928222018
-    owner: 三水
-    # notes: 
-  - name: acm派蒙交流群
-    groupid: 939404365
-    owner: 鸡哥
-    notes: 原神群
-  - name: acm_Stj的清纯nb小队
-    groupid: 323066341
-    owner: 特巨
-    notes: lol
-  - name: Acmer-Tetris交流群
-    groupid: 954358743
-    owner: 特巨
-    notes: Tetris，俄罗斯方块
-  - name: ACMDOTA交流群
-    groupid: 872605013
-    owner: 松鼠妹妹(tianlelu)
-    notes: DOTA,DOTA2
+  
     
 job:
   - name: acmer找工作群
