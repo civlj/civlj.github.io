@@ -45,21 +45,21 @@ game:
   
     
 job:
-  - name: acmer找工作群
-    groupid: 566499368
-    owner: cch
+  - name: 北科数学竞赛交流群
+    groupid: ---
+    owner: ---
     # notes: 
 
 company:
-  - name: Acmer in Alibaba or Ant
-    # groupid: 
-    owner: jk
-    notes: 阿里&蚂蚁群，钉钉私聊醉荷加入
+  - name: 北科羽协
+    groupid: ---
+    owner: --
+    notes: 
 
 city:
   - name: USTB校友会-北京分会
-    groupid: 123456
-    owner: 123
+    groupid: ---
+    owner: ---
     notes: 北京群
 
 others:
@@ -68,7 +68,7 @@ others:
     owner: 
     # notes: 
   - name: 显卡锻炼交流群
-    # groupid: 
+    groupid: 
     owner: 
     notes: 除显卡锻炼外还可交流硬件装机配置捡垃圾等
    
