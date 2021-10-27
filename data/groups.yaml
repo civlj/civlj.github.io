@@ -11,6 +11,10 @@ contest:
     groupid: 460179114
     owner: 学生学习与发展指导中心
     # notes: camp 
+  - name: USTB_线性代数
+    groupid: 345353134
+    owner: 学生学习与发展指导中心
+    # notes: camp 
 
     
 game:
